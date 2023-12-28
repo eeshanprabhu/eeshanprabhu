@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-blue-technology-blue-light-artificial-intelligence-cool-banner-background-material-backgroundbackgroundbackground-image_68240.jpg)]
+![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-blue-technology-blue-light-artificial-intelligence-cool-banner-background-material-backgroundbackgroundbackground-image_68240.jpg)
 
 <h1 align="center">Hi 👋, I'm Eeshan Prabhu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
